@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Pistashioz's Github Stats][https://github-readme-stats-pistashiozs-projects.vercel.app/](https://github-readme-stats-pistashiozs-projects.vercel.app/)]
+[![Pistashioz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pistashioz)](https://github.com/pistashioz/github-readme-stats)
